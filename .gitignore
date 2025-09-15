@@ -138,6 +138,8 @@ celerybeat.pid
 .env
 .envrc
 .venv
+.terraform
+terrafrom.tfstate*
 env/
 venv/
 ENV/
