@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AlexR/PycharmProjects/pythonProject/mlflow/mlruns/0/2bc8e1b402a348b0ac4f16540ebd7823/artifacts
+end_time: 1752814530178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bc8e1b402a348b0ac4f16540ebd7823
+run_name: likeable-horse-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752814521448
+status: 3
+tags: []
+user_id: AlexR

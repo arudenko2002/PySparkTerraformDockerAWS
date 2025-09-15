@@ -1,0 +1,19 @@
+name: advanced_dbt_project
+version: 1.0.0
+
+profile: advanced_profile
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+test-paths: ["tests"]
+
+docs-paths: ["docs"]
+
+models:
+  advanced_dbt_project:
+    marts:
+      materialized: incremental
+#    facts:
+#      materialized: incremental

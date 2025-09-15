@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AlexR/PycharmProjects/pythonProject/mlflow/mlruns/0/e142f71bbfa145c290cafadc37b76f1e/artifacts
+end_time: 1752856431468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e142f71bbfa145c290cafadc37b76f1e
+run_name: big-stoat-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752856401973
+status: 3
+tags: []
+user_id: AlexR

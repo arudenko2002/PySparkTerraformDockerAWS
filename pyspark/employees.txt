@@ -1,0 +1,11 @@
+1|Dept1|240|M|technician|85711
+2|Dept2|530|F|other|94043
+3|Dept3|230|M|writer|32067
+4|Dept1|240|M|technician|43537
+5|Dept2|330|F|other|15213
+6|Dept3|420|M|executive|98101
+7|Dept1|570|M|administrator|91344
+8|Dept2|360|M|administrator|05201
+9|Dept3|290|M|student|01002
+10|Dept1|750|M|student|01002
+11|Dept2|50|M|student|01002

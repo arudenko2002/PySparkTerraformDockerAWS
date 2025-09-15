@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+mlflow==2.3.2    # pin to a specific version you tested with
+pandas
+scikit-learn
+gunicorn

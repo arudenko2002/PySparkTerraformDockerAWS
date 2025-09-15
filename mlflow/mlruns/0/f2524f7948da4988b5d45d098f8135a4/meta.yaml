@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AlexR/PycharmProjects/pythonProject/mlflow/mlruns/0/f2524f7948da4988b5d45d098f8135a4/artifacts
+end_time: 1752813092817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2524f7948da4988b5d45d098f8135a4
+run_name: loud-squirrel-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752813084855
+status: 3
+tags: []
+user_id: AlexR

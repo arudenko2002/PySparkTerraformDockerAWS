@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: fact_orders
+    description: "Incremental fact table for orders"
+    columns:
+      - name: order_id
+        tests:
+          - unique
+          - not_null
+      - name: total_amount
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "total_amount >= 0"
+
+snapshots:
+  - name: snap_customers
+    description: "Snapshot of customers to track history"

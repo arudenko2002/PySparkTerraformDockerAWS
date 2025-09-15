@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AlexR/PycharmProjects/pythonProject/mlflow/mlruns/0/c65660acb793499bb49fa0359415670c/artifacts
+end_time: 1752816202646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c65660acb793499bb49fa0359415670c
+run_name: hilarious-eel-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752816190203
+status: 4
+tags: []
+user_id: AlexR
