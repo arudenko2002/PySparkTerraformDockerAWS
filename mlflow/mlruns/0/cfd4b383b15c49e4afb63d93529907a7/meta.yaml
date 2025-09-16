@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AlexR/PycharmProjects/pythonProject/mlflow/mlruns/0/cfd4b383b15c49e4afb63d93529907a7/artifacts
+end_time: 1753417082575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfd4b383b15c49e4afb63d93529907a7
+run_name: clumsy-snipe-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753417082395
+status: 4
+tags: []
+user_id: AlexR

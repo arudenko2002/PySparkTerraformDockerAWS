@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw     # ← this must match the actual schema name in your SQL Server DB
+    tables:
+      - name: orders
+      - name: customers
+
+  - name: customer_order_join_query
+    description: "Customer order table"

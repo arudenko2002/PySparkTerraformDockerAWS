@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AlexR/PycharmProjects/pythonProject/mlflow/mlruns/0/c941601c4f6d47cd96435671d5d2b11b/artifacts
+end_time: 1752812447777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c941601c4f6d47cd96435671d5d2b11b
+run_name: marvelous-elk-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752812436539
+status: 3
+tags: []
+user_id: AlexR

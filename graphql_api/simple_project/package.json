@@ -1,0 +1,20 @@
+{
+  "name": "graphql-blog-api",
+  "version": "1.0.0",
+  "description": "A simple GraphQL API with Apollo Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.10.0",
+    "express": "^4.18.0",
+    "graphql": "^16.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+part_id,part_name,manufacturer,quantity_in_stock,last_restock_date,next_restock_date
+101,Brake Pad,AutoParts Co,30,2023-01-10,2023-07-01
+102,Engine Oil,OilMasters,200,2023-02-15,2023-03-01
+103,Air Filter,FilterWorks,45,2023-01-20,2023-08-15
+104,Spark Plug,Ignition Inc,60,2023-03-05,2023-04-10
+105,Transmission Fluid,Fluid Dynamics,20,2023-02-01,2023-07-20
+106,Headlight Bulb,LightTech,75,2023-01-25,2023-02-15
+107,Fuel Pump,Fuel Systems Ltd,40,2023-02-10,2023-09-01
+108,Alternator,PowerGen,55,2023-01-30,2023-03-05
+109,Exhaust Pipe,Exhaust Experts,25,2023-02-05,2023-07-25
+110,Windshield Wiper,WiperWorks,80,2023-01-15,2023-02-20

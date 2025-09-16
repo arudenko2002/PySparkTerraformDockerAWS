@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AlexR/PycharmProjects/pythonProject/mlflow/mlruns/0/6064ccfcfe7d4853beac0688ab76db02/artifacts
+end_time: 1752812628663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6064ccfcfe7d4853beac0688ab76db02
+run_name: useful-lark-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752812621183
+status: 3
+tags: []
+user_id: AlexR

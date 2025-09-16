@@ -1,0 +1,13 @@
+advanced_profile:
+  target: dev
+  outputs:
+    dev:
+      type: sqlserver
+      driver: ODBC Driver 17 for SQL Server  # or 18 if installed
+      server: 192.168.1.65
+      user: pyspark_user
+      password: pyspark2025
+      port: 1433
+      database: Probe
+      schema: analytics_dev
+      encrypt: false

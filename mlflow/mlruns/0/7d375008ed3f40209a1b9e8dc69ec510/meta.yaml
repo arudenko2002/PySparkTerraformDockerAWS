@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AlexR/PycharmProjects/pythonProject/mlflow/mlruns/0/7d375008ed3f40209a1b9e8dc69ec510/artifacts
+end_time: 1757903061249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d375008ed3f40209a1b9e8dc69ec510
+run_name: zealous-foal-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757903061097
+status: 4
+tags: []
+user_id: AlexR

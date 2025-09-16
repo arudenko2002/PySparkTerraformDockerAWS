@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AlexR/PycharmProjects/pythonProject/mlflow/mlruns/0/8a1312c70fe54d96b2626ea8b04fb72b/artifacts
+end_time: 1752816661015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a1312c70fe54d96b2626ea8b04fb72b
+run_name: enchanting-turtle-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752816648118
+status: 3
+tags: []
+user_id: AlexR

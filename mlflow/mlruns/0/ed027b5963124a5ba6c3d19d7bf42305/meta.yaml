@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AlexR/PycharmProjects/pythonProject/mlflow/mlruns/0/ed027b5963124a5ba6c3d19d7bf42305/artifacts
+end_time: 1752816058918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed027b5963124a5ba6c3d19d7bf42305
+run_name: gregarious-dove-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752816058768
+status: 4
+tags: []
+user_id: AlexR

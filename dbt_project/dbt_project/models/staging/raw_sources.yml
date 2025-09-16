@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: Probe         # <-- Replace this with your actual DB
+    schema: raw                          # <-- Replace with actual schema (e.g. dbo or staging)
+    tables:
+      - name: orders
+      - name: customers

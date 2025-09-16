@@ -1,0 +1,1 @@
+docker run -d -e KAFKA_ZOOKEEPER_CONNECT=zookeeper:2181 -e KAFKA_PROCESS_ROLES=broker,controller -e KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://localhost:9092 -e CLUSTER_ID=MkU3OEVBNTcwNTJENDM2Qk -p 9092:9092 --network kafka-network --name kafka confluentinc/cp-kafka:7.2.1

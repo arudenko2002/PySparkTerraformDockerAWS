@@ -1,0 +1,6 @@
+a = dict(one=1, two=2, three=3)
+print(a)
+b=  {'one':1, 'two':2, 'three':3} # same as dict({...})
+print(b)
+c = dict(zip(['one','two','three'],[1,2,3]))
+print(c)

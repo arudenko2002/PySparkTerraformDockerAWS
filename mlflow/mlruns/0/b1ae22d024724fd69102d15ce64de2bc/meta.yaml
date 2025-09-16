@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AlexR/PycharmProjects/pythonProject/mlflow/mlruns/0/b1ae22d024724fd69102d15ce64de2bc/artifacts
+end_time: 1752812746608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1ae22d024724fd69102d15ce64de2bc
+run_name: skittish-hen-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752812736301
+status: 3
+tags: []
+user_id: AlexR
